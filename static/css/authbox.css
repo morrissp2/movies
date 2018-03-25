@@ -1,0 +1,153 @@
+h1.auth_title {
+    border-bottom: 1px solid #ccc !important;
+    color: #007db8 !important;
+    font-family: "Arial" !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    line-height: 14px !important;
+    margin-bottom: 18px !important;
+    padding-bottom: 18px !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+}
+
+.auth_input_error{
+	border: 1px solid #b31221 !important;
+	color: #666 !important;
+	display: block !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	height: 25px !important;
+	margin-bottom: 15px !important;
+	padding-left: 2% !important;
+	position: relative !important;
+	text-align: left !important;
+	width: 98% !important;
+	line-height: 20px !important;
+        font-weight: normal !important;
+}
+
+
+h2.auth_header
+{
+
+	font-size: 14px !important;
+	font-weight: bold !important;
+	line-height: 15px !important;
+	margin-bottom: 8px !important;
+	text-align: left !important;
+	color: #333 !important;
+	font-family: "Arial" !important;
+}
+
+.auth_label
+{
+	display: block !important;
+	margin-bottom: 8px !important;
+	color: #333 !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	line-height: 20px !important;
+	text-align: left !important;
+        font-weight: normal !important;
+}
+
+.auth_error
+{
+	display: block !important;
+	margin-bottom: 8px !important;
+	color: #B31221 !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	line-height: 20px !important;
+	text-align: left !important;
+        font-weight: normal !important;
+}
+
+
+.auth_input
+{
+
+	border: 1px solid #CCC !important;
+	color: #666 !important;
+	display: block !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	height: 25px !important;
+	margin-bottom: 15px !important;
+	padding-left: 2% !important;
+	position: relative !important;
+	text-align: left !important;
+	width: 98% !important;
+	line-height: 20px !important;
+        font-weight: normal !important;
+}
+
+.auth_button
+{
+	background-color: #007DB8 !important;
+	border: 0px none !important;
+	border-radius: 3px !important;
+	color: #FFF !important;
+	cursor: pointer !important;
+	float: left !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	font-weight: bold !important;
+	height: 30px !important;
+	line-height: 28px !important;
+	margin-bottom: 5px !important;
+	margin-top: 40px !important;
+	padding: 0px !important;
+	text-transform: uppercase !important;
+	width: 250px !important;
+	text-align: center !important;
+}
+
+.auth_container {
+	max-width: 300px !important;
+	color: #333 !important;
+	font-family: "Arial" !important;
+	font-size: 14px !important;
+	height: 100% !important;
+	line-height: 20px !important;
+	margin: 0px auto !important;
+	position: relative !important;
+	text-align: left !important;
+        font-weight: normal !important;
+}
+
+
+.modal-header {
+    border-bottom:none !important;
+    padding-top: 15px !important;
+    padding-bottom: 0px !important;
+    padding-right : 15px !important;
+    padding-left: 15px !important;
+
+}
+
+
+
+.modal-footer {
+    padding: 20px !important;
+    text-align: right !important;
+    border-top: none !important;
+    box-sizing: border-box !important;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    font-size: 14px !important;
+    line-height: 1.42857 !important;
+    color: #555 !important;
+
+}
+
+
+.modal-body {
+
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-right : 20px !important;
+    padding-left: 20px !important;
+
+
+}
